@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzh/CLionProjects/Tutorial/MathFunctions/mysqrt.cpp
+iostream
+-
+math.h
+-
+MathFunctions.h
+-
+TutorialConfig.h
+/Users/gzh/CLionProjects/Tutorial/MathFunctions/TutorialConfig.h
+
+MathFunctions/MathFunctions.h
+iostream
+-
+math.h
+-
+

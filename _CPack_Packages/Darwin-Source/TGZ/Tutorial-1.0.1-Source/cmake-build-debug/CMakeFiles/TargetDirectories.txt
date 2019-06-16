@@ -1,0 +1,3 @@
+/Users/gzh/CLionProjects/Tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gzh/CLionProjects/Tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gzh/CLionProjects/Tutorial/cmake-build-debug/CMakeFiles/Tutorial.dir

@@ -1,0 +1,8 @@
+//TutorialConfig.h.in（需要新建）文件里的内容
+// the configured options and settings for Tutorial
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+#cmakedefine USE_MYMATH
+#cmakedefine HAVE_LOG
+#cmakedefine HAVE_EXP
